@@ -12,23 +12,23 @@
     },
     {
       "type": "small",
-      "title": "Learn about cats",
+      "title": "",
       "url": "",
-      "image": "assets/bookend_cats.jpg"
+      "image": ""
     },
     {
-      "type": "landscape",
-      "title": "Learn about border collies",
-      "url": "https://wikipedia.org/wiki/Border_Collie",
-      "image": "assets/bookend_dogs.jpg",
-      "category": "Dogs"
+      "type": "",
+      "title": "",
+      "url": "",
+      "image": "",
+      "category": ""
     },
     {
-      "type": "portrait",
-      "title": "Learn about macaws",
-      "url": "https://wikipedia.org/wiki/Macaw",
-      "image": "assets/bookend_birds.jpg",
-      "category": "birds"
+      "type": "",
+      "title": "",
+      "url": "",
+      "image": "",
+      "category": ""
     },
     {
       "type": "cta-link",
